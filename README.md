@@ -4,8 +4,8 @@ This is a simple LED driver circuit using two 555s and a couple FETs to drive se
 
 ![Front render](renders/front.png)
 ![Back render](renders/back.png)
-![Schematic SVG](schematics/signflasher-latest.svg)
-[Schematic PDF](schematics/signflasher-latest.pdf)
+![Schematic SVG](schematics/sign_flasher-latest.svg)
+[Schematic PDF](schematics/sign_flasher-latest.pdf)
 
 ## Credit
 The underlying circuit is based on [a 555 schematic](https://mechatrofice.com/circuits/555/led-flasher-circuit) I found when searching for related designs.
