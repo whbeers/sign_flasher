@@ -10,8 +10,7 @@ This is a simple LED driver circuit using two 555s and a pair of NPN/PNP transis
 ## Credit
 The underlying circuit is based on [a 555 schematic](https://mechatrofice.com/circuits/555/led-flasher-circuit) I found when searching for circuits that would fulfill the design requirements given to me by my son.
 
-Trimpot symbol, footprin, and 3D model courtesy of [SnapEDA](https://www.snapeda.com/parts/3306F-1-103/Bourns/view-part/). [Additional license details](hardware/TRIM_3306F.txt)
-
+Trimpot symbol, footprint, and 3D model courtesy of [SnapEDA](https://www.snapeda.com/parts/3306F-1-103/Bourns/view-part/). ([Additional license details](hardware/TRIM_3306F.txt))
 ## Versioning
 
 My pcb designs utilize the following versioning scheme (I'll add to this as I produce more revisions):
