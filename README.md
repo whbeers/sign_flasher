@@ -1,6 +1,6 @@
-# FET-driven LED flasher
+# Transistor-driven 555 LED flasher
 
-This is a simple LED driver circuit using two 555s and a couple FETs to drive several LEDs meant to outline a small sign. Designed with my son for a St Patrick's Day project, in [KiCAD](https://www.kicad.org). 
+This is a simple LED driver circuit using two 555s and a pair of NPN/PNP transistors to drive several LEDs meant to outline a small sign. Designed with my son for a St Patrick's Day project, in [KiCAD](https://www.kicad.org). 
 
 ![Front render](renders/front.png)
 ![Back render](renders/back.png)
