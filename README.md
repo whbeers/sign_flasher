@@ -10,6 +10,8 @@ This is a simple LED driver circuit using two 555s and a couple FETs to drive se
 ## Credit
 The underlying circuit is based on [a 555 schematic](https://mechatrofice.com/circuits/555/led-flasher-circuit) I found when searching for related designs.
 
+Trimpot symbol, footprint and 3D model courtesy of [SnapEDA](https://www.snapeda.com/parts/3306F-1-103/Bourns/view-part/). [hardware/TRIM_3306F.txt](Additional licensing details)
+
 ## Versioning
 
 My pcb designs utilize the following versioning scheme (I'll add to this as I produce more revisions):
