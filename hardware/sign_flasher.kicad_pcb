@@ -4218,7 +4218,7 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp d5848a20-67ac-4a0d-8412-bb45b5d05198))
   (gr_arc (start 182.88 137.16) (mid 181.392102 140.752102) (end 177.8 142.24)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp eef8ddee-127a-4062-a755-7ae61e9a5ceb))
-  (gr_text "        ${COMMENT1}                                                                                                    ${REVISION}        " (at 182.88 44.704) (layer "B.SilkS" knockout) (tstamp 7da3d450-85ef-431f-9214-9b6f41477b9e)
+  (gr_text "        ${COMMENT1}                                                                            ${REVISION}        " (at 182.88 44.704) (layer "B.SilkS" knockout) (tstamp 7da3d450-85ef-431f-9214-9b6f41477b9e)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom mirror))
   )
 
